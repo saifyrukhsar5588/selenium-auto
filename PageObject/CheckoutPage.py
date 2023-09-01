@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from PageObject.ConfirmPages import Confir
+from PageObject.ConfirmPage import Confir
 
 
 class CheckOut:
